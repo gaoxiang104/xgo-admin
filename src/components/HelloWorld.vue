@@ -9,6 +9,7 @@
       >.
     </p>
     <h3>Installed CLI Plugins</h3>
+    <el-button type="primary" plain>主要按钮</el-button>
     <ul>
       <li>
         <a
